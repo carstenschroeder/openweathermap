@@ -1,5 +1,6 @@
 {
   "domain": "openweathermap",
+  "version": "0.1.0",
   "name": "OpenWeatherMap",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/openweathermap",
